@@ -14,4 +14,4 @@
 - Медиазапросы
 - Использование относительных величин при указании размеров блоков и элементов
 
-https://github.com/mngoose/russian-travel.git
+ссылка на сайт: https://mngoose.github.io/russian-travel/
